@@ -39,5 +39,10 @@ Este projeto é o resultado de um trabalho acadêmico desenvolvido como parte do
 ## Como Executar o Projeto
 
 1. **Clonar o Repositório:**
+   
+   Utilizando HTTPS:
    ```bash
    git clone https://github.com/nascimentocode/sistema-de-historico-escolar.git
+   ```
+
+   Ou Utilizando SSH:
