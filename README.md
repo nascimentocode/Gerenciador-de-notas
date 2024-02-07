@@ -42,10 +42,10 @@ Este projeto é o resultado de um trabalho acadêmico desenvolvido como parte do
    
    Utilizando HTTPS:
    ```bash
-     git clone https://github.com/nascimentocode/sistema-de-historico-escolar.git
+   git clone https://github.com/nascimentocode/sistema-de-historico-escolar.git
    ```
 
    Ou Utilizando SSH:
    ```bash
-     git clone git@github.com:nascimentocode/sistema-de-historico-escolar.git
+   git clone git@github.com:nascimentocode/sistema-de-historico-escolar.git
    ```
