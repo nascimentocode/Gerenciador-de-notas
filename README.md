@@ -10,6 +10,9 @@ Este projeto é o resultado de um trabalho acadêmico desenvolvido como parte do
 
 ![historico-escolar03](https://github.com/nascimentocode/sistema-de-historico-escolar/assets/68881676/4d833264-0d8a-494c-bdcc-1d1d5d526964)
 
+## Imagem
+![sistema-historico](https://github.com/nascimentocode/sistema-de-historico-escolar/assets/68881676/c4ce438d-4c27-4e5e-a217-2f86543ec92c)
+
 ## Funcionalidades
 
 - **Cadastro de Matérias e Notas:**
